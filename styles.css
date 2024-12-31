@@ -128,18 +128,18 @@ footer {
 }
 
 .social-links {
-    margin-top: 1rem;
+    margin-top: 0.5rem;
 }
 
 .social-links a {
     color: white;
     text-decoration: none;
-    margin-right: 1rem;
-    transition: opacity 0.2s ease;
+    opacity: 0.9;
 }
 
 .social-links a:hover {
-    opacity: 0.8;
+    opacity: 1;
+    text-decoration: underline;
 }
 
 .social-links i {
@@ -154,4 +154,33 @@ footer {
     .social-links i {
         font-size: 1.2rem;
     }
+}
+
+.citation {
+    color: #666;
+    font-size: 0.9em;
+    margin-left: 0.5rem;
+}
+
+.authors, .venue {
+    font-size: 0.9em;
+    margin: 0.25rem 0;
+}
+
+.venue {
+    color: #666;
+    font-style: italic;
+}
+
+.more-info {
+    margin-top: 1.5rem;
+}
+
+.more-info a {
+    color: var(--secondary-color);
+    text-decoration: none;
+}
+
+.more-info a:hover {
+    text-decoration: underline;
 } 
