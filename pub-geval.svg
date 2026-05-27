@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 290" role="img" aria-labelledby="title desc">
+  <title id="title">G-Eval thumbnail</title>
+  <desc id="desc">LLM evaluation rubric thumbnail.</desc>
+  <rect width="640" height="290" fill="#0f172a"/>
+  <rect x="54" y="58" width="230" height="174" rx="18" fill="#1e293b" stroke="#38bdf8" stroke-width="4"/>
+  <rect x="356" y="58" width="230" height="174" rx="18" fill="#1e293b" stroke="#a78bfa" stroke-width="4"/>
+  <path d="M304 112h34M304 146h34M304 180h34" stroke="#e2e8f0" stroke-width="8" stroke-linecap="round"/>
+  <path d="M90 110h146M90 148h108M90 186h134" stroke="#7dd3fc" stroke-width="10" stroke-linecap="round"/>
+  <path d="M394 118l24 24 52-62M394 184l24 24 80-96" fill="none" stroke="#c4b5fd" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="54" y="40" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">G-Eval</text>
+  <text x="54" y="264" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="20">LLM-as-a-judge for NLG evaluation</text>
+</svg>

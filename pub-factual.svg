@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 290" role="img" aria-labelledby="title desc">
+  <title id="title">Factual summarization thumbnail</title>
+  <desc id="desc">Fact-aware abstractive summarization thumbnail.</desc>
+  <rect width="640" height="290" fill="#431407"/>
+  <rect x="72" y="70" width="214" height="156" rx="18" fill="#fed7aa"/>
+  <path d="M112 112h132M112 148h94M112 184h118" stroke="#9a3412" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="444" cy="144" r="78" fill="#fff7ed" opacity="0.95"/>
+  <path d="M404 146l30 30 62-76" fill="none" stroke="#16a34a" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="56" y="48" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Factual Summarization</text>
+  <text x="56" y="264" fill="#ffedd5" font-family="Segoe UI, Arial, sans-serif" font-size="20">fact-aware generation and correction</text>
+</svg>

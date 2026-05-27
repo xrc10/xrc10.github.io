@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 290" role="img" aria-labelledby="title desc">
+  <title id="title">CLIP-Event thumbnail</title>
+  <desc id="desc">Event-structured vision-language thumbnail.</desc>
+  <rect width="640" height="290" fill="#082f49"/>
+  <rect x="62" y="76" width="194" height="136" rx="18" fill="#bae6fd"/>
+  <circle cx="118" cy="124" r="28" fill="#0284c7"/>
+  <path d="M84 190l48-44 36 30 28-24 38 38" fill="none" stroke="#0369a1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="414" cy="102" r="22" fill="#fef3c7"/>
+  <circle cx="520" cy="150" r="22" fill="#fef3c7"/>
+  <circle cx="398" cy="198" r="22" fill="#fef3c7"/>
+  <path d="M414 102l106 48M520 150l-122 48M398 198l16-96" stroke="#fbbf24" stroke-width="8" stroke-linecap="round"/>
+  <text x="56" y="48" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">CLIP-Event</text>
+  <text x="56" y="264" fill="#e0f2fe" font-family="Segoe UI, Arial, sans-serif" font-size="20">events and argument roles in images</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 290" role="img" aria-labelledby="title desc">
+  <title id="title">Cross-lingual embedding thumbnail</title>
+  <desc id="desc">Cross-lingual word embedding transfer thumbnail.</desc>
+  <rect width="640" height="290" fill="#1e293b"/>
+  <circle cx="168" cy="128" r="56" fill="#38bdf8"/>
+  <circle cx="472" cy="128" r="56" fill="#f472b6"/>
+  <path d="M224 128h192" stroke="#e2e8f0" stroke-width="10" stroke-linecap="round"/>
+  <path d="M386 98l38 30-38 30" fill="none" stroke="#e2e8f0" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M416 178H224" stroke="#94a3b8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M254 154l-34 24 34 24" fill="none" stroke="#94a3b8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="56" y="48" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Cross-Lingual Embeddings</text>
+  <text x="56" y="264" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="20">unsupervised transfer across languages</text>
+</svg>

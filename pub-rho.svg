@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 290" role="img" aria-labelledby="title desc">
+  <title id="title">Rho-1 thumbnail</title>
+  <desc id="desc">Selective token training thumbnail.</desc>
+  <rect width="640" height="290" fill="#111827"/>
+  <g transform="translate(68 72)">
+    <rect width="504" height="112" rx="22" fill="#1f2937"/>
+    <circle cx="64" cy="56" r="24" fill="#22c55e"/>
+    <circle cx="144" cy="56" r="24" fill="#64748b"/>
+    <circle cx="224" cy="56" r="24" fill="#22c55e"/>
+    <circle cx="304" cy="56" r="24" fill="#64748b"/>
+    <circle cx="384" cy="56" r="24" fill="#22c55e"/>
+    <circle cx="464" cy="56" r="24" fill="#22c55e"/>
+  </g>
+  <path d="M132 214h376" stroke="#86efac" stroke-width="12" stroke-linecap="round"/>
+  <path d="M132 214c96-80 168-80 260 0 42 36 78 42 116 0" fill="none" stroke="#38bdf8" stroke-width="7" stroke-linecap="round"/>
+  <text x="56" y="48" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Rho-1</text>
+  <text x="56" y="264" fill="#d1fae5" font-family="Segoe UI, Arial, sans-serif" font-size="20">selective language modeling</text>
+</svg>

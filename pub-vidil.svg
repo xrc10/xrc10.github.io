@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 290" role="img" aria-labelledby="title desc">
+  <title id="title">VidIL thumbnail</title>
+  <desc id="desc">Few-shot video-language learning thumbnail.</desc>
+  <rect width="640" height="290" fill="#312e81"/>
+  <g transform="translate(62 82)">
+    <rect width="120" height="88" rx="14" fill="#c4b5fd"/>
+    <rect x="148" width="120" height="88" rx="14" fill="#a5b4fc"/>
+    <rect x="296" width="120" height="88" rx="14" fill="#93c5fd"/>
+    <path d="M46 28l38 16-38 16zM194 28l38 16-38 16zM342 28l38 16-38 16z" fill="#3730a3"/>
+  </g>
+  <rect x="402" y="192" width="176" height="42" rx="21" fill="#eef2ff"/>
+  <path d="M444 213h92" stroke="#4f46e5" stroke-width="8" stroke-linecap="round"/>
+  <text x="56" y="48" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">VidIL</text>
+  <text x="56" y="264" fill="#ede9fe" font-family="Segoe UI, Arial, sans-serif" font-size="20">few-shot video-language generation</text>
+</svg>

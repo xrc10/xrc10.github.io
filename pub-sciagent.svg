@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 290" role="img" aria-labelledby="title desc">
+  <title id="title">SciAgent thumbnail</title>
+  <desc id="desc">Tool-augmented scientific reasoning thumbnail.</desc>
+  <rect width="640" height="290" fill="#1b1f3b"/>
+  <rect x="72" y="72" width="186" height="132" rx="20" fill="#312e81"/>
+  <rect x="382" y="72" width="186" height="132" rx="20" fill="#164e63"/>
+  <path d="M258 138h124" stroke="#f8fafc" stroke-width="10" stroke-linecap="round"/>
+  <path d="M156 112v52M130 138h52" stroke="#a5b4fc" stroke-width="10" stroke-linecap="round"/>
+  <path d="M438 112h74M438 138h54M438 164h86" stroke="#67e8f9" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="320" cy="138" r="28" fill="#f59e0b"/>
+  <text x="56" y="48" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">SciAgent</text>
+  <text x="56" y="264" fill="#e0e7ff" font-family="Segoe UI, Arial, sans-serif" font-size="20">tools for scientific reasoning</text>
+</svg>

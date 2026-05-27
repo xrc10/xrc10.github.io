@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 290" role="img" aria-labelledby="title desc">
+  <title id="title">Cross-lingual distillation thumbnail</title>
+  <desc id="desc">Cross-lingual model distillation thumbnail.</desc>
+  <rect width="640" height="290" fill="#2d1b69"/>
+  <rect x="76" y="78" width="176" height="128" rx="18" fill="#ddd6fe"/>
+  <rect x="388" y="78" width="176" height="128" rx="18" fill="#bfdbfe"/>
+  <path d="M252 142h136" stroke="#f8fafc" stroke-width="10" stroke-linecap="round"/>
+  <path d="M358 112l38 30-38 30" fill="none" stroke="#f8fafc" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M118 118h92M118 154h58M430 118h92M430 154h58" stroke="#4338ca" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="320" cy="214" r="28" fill="#facc15"/>
+  <text x="56" y="48" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Cross-Lingual Distillation</text>
+  <text x="56" y="264" fill="#ede9fe" font-family="Segoe UI, Arial, sans-serif" font-size="20">knowledge transfer for text classification</text>
+</svg>
