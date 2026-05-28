@@ -267,14 +267,16 @@ footer {
 
 .publication-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    gap: 1.5rem;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.35rem;
 }
 
 .publication-card {
     display: flex;
     flex-direction: column;
     overflow: hidden;
+    width: 100%;
+    margin: 0 auto;
     border: 1px solid rgba(219, 228, 240, 0.9);
     border-radius: 18px;
     background: var(--surface-color);
@@ -284,14 +286,15 @@ footer {
 
 .publication-card:hover {
     border-color: rgba(37, 99, 235, 0.3);
-    transform: translateY(-4px);
+    transform: translateY(-2px);
     box-shadow: 0 18px 34px rgba(15, 23, 42, 0.12);
 }
 
 .publication-image {
     width: 100%;
-    height: 155px;
-    object-fit: cover;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: contain;
     background: #eef3f8;
 }
 
@@ -299,10 +302,11 @@ footer {
     display: flex;
     flex: 1;
     flex-direction: column;
-    padding: 1.2rem;
+    padding: 1.1rem 1.35rem 1.25rem;
 }
 
 .publication-content h3 {
+    font-size: clamp(1.05rem, 1.8vw, 1.35rem);
     line-height: 1.3;
     margin-bottom: 0.4rem;
 }
@@ -352,8 +356,8 @@ footer {
 }
 
 .links {
-    margin-top: auto;
-    padding-top: 0.75rem;
+    margin-top: 0.35rem;
+    padding-top: 0.25rem;
 }
 
 .links a {
